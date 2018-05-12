@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1961
 description: Vol. 5. Justinian and the Roman law edited and with an introduction by
   Felipe Fernández-Armesto. 1987.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25717#The-History-Of-The-Decline-And-Fall-Of-The-Roman-EmpireProject-Gutenberg-editions--12-volumes_
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2008-06-07'
 gutenberg_type: Text
