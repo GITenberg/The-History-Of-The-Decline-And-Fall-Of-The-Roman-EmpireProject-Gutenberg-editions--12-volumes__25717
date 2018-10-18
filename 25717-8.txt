@@ -59,7 +59,7 @@ not have footnotes.
 There are two Project Gutenberg sets produced by David Reed of the
 complete "History Of The Decline And Fall Of The Roman Empire" by
 Edward Gibbon: the 1996 ASCII text only edition (PG #731-736) has the
-advantage of including all the foonotes by Gibbin and others; the 1997
+advantage of including all the foonotes by Gibbon and others; the 1997
 edition (PG #890-895)in the Latin-1 character set was provided at that
 time only in html format and footnotes were not included in the first
 five volumes of this set.
